@@ -6,5 +6,3 @@ DisasterMaster
 ElNaaaino
 EndlessFacepalms
 FreakingOblin
-GhostlyPresence
-GridlockAndKey
