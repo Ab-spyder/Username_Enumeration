@@ -1,0 +1,18 @@
+The email you supplied doesn't match our records.
+Sorry, we don't recognize this email.
+Account doesn't exist
+This email address was not found.
+There is no user with that email address.
+User does not exist.; create a new account
+Sorry, we don't recognize this account.
+There was a problem We cannot find an account with that email address
+Oops, that's not a match.
+Invalid email or password.
+We can't find a user with that e-mail address.
+This email address doesn’t match any account. Double check and try again.
+We couldn't find your account with that information
+We don't recognize that email address.
+wecannotfindanaccountwiththatemailaddress
+No account found for this email. Retry, or
+userdoesnotexistwouldyouliketo
+Email already in use by an unconfirmed account.

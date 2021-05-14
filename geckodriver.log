@@ -1,0 +1,603 @@
+1618445738662	geckodriver	INFO	Listening on 127.0.0.1:56024
+1618445739668	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileai2MAf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618445741907	Marionette	INFO	Listening on port 56031
+1618445741982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618445764466	Marionette	INFO	Stopped listening on port 56031
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618445765571	geckodriver	INFO	Listening on 127.0.0.1:56185
+1618445766582	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileXkT0Zk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618445768722	Marionette	INFO	Listening on port 56192
+1618445768772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618445792011	Marionette	INFO	Stopped listening on port 56192
+1618445793308	geckodriver	INFO	Listening on 127.0.0.1:56346
+1618445794323	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofilefjbXSI"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618445796582	Marionette	INFO	Listening on port 56354
+1618445796632	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1618445814303	geckodriver	INFO	Listening on 127.0.0.1:56438
+1618445815319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofile32qSt4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618445817320	Marionette	INFO	Listening on port 56445
+1618445817413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618445842093	Marionette	INFO	Stopped listening on port 56445
+1618445843479	geckodriver	INFO	Listening on 127.0.0.1:56600
+1618445844491	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileyBHM6F"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618445846465	Marionette	INFO	Listening on port 56607
+1618445846486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618445877151	Marionette	INFO	Stopped listening on port 56607
+1618445878275	geckodriver	INFO	Listening on 127.0.0.1:56761
+1618445879285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileht7Q46"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618445881263	Marionette	INFO	Listening on port 56768
+1618445881371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618445910562	Marionette	INFO	Stopped listening on port 56768
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1618445911903	geckodriver	INFO	Listening on 127.0.0.1:56934
+1618445912915	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileuOYt0z"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618445915191	Marionette	INFO	Listening on port 56942
+1618445915220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618445939726	Marionette	INFO	Stopped listening on port 56942
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1618445940784	geckodriver	INFO	Listening on 127.0.0.1:57102
+1618445941795	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofilePZAKBa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618445943827	Marionette	INFO	Listening on port 57109
+1618445943899	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1618445948763	geckodriver	INFO	Listening on 127.0.0.1:57193
+1618445949779	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofile0GzfII"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618445951827	Marionette	INFO	Listening on port 57200
+1618445951879	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1618445996890	Marionette	INFO	Stopped listening on port 57200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618445997970	geckodriver	INFO	Listening on 127.0.0.1:57357
+1618445998984	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofile5Tsesm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618446001127	Marionette	INFO	Listening on port 57364
+1618446001183	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1618446223076	geckodriver	INFO	Listening on 127.0.0.1:57497
+1618446224090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofiledHXK62"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618446226240	Marionette	INFO	Listening on port 57504
+1618446226290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618446251221	Marionette	INFO	Stopped listening on port 57504
+1618446252247	geckodriver	INFO	Listening on 127.0.0.1:57661
+1618446253257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileK1q3zt"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618446255297	Marionette	INFO	Listening on port 57668
+1618446255371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618446278575	Marionette	INFO	Stopped listening on port 57668
+1618446279613	geckodriver	INFO	Listening on 127.0.0.1:57831
+1618446280627	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofilefAbCZs"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618446282610	Marionette	INFO	Listening on port 57838
+1618446282726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618446307232	Marionette	INFO	Stopped listening on port 57838
+1618446308408	geckodriver	INFO	Listening on 127.0.0.1:58002
+1618446309423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileTeHehf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618446311504	Marionette	INFO	Listening on port 58010
+1618446311616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618446334278	Marionette	INFO	Stopped listening on port 58010
+1618446335381	geckodriver	INFO	Listening on 127.0.0.1:58167
+1618446336395	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofilemsdcJw"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618446338397	Marionette	INFO	Listening on port 58174
+1618446338486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618446363168	Marionette	INFO	Stopped listening on port 58174
+1618446364450	geckodriver	INFO	Listening on 127.0.0.1:58339
+1618446365463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileiBIYxp"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618446367663	Marionette	INFO	Listening on port 58346
+1618446367778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618446391635	Marionette	INFO	Stopped listening on port 58346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1618446408667	geckodriver	INFO	Listening on 127.0.0.1:58522
+1618446409683	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileNXljDy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618446411896	Marionette	INFO	Listening on port 58530
+1618446411989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618446441666	Marionette	INFO	Stopped listening on port 58530
+1618446442692	geckodriver	INFO	Listening on 127.0.0.1:58690
+1618446443706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofile47uhoj"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618446445748	Marionette	INFO	Listening on port 58697
+1618446445799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618446470838	Marionette	INFO	Stopped listening on port 58697
+1618446471938	geckodriver	INFO	Listening on 127.0.0.1:58864
+1618446472951	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofiledrF1Xc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618446475163	Marionette	INFO	Listening on port 58872
+1618446475255	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1619659532805	geckodriver	INFO	Listening on 127.0.0.1:54392
+1619659533697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileFpVarI"
+1619659534453	Marionette	INFO	Marionette enabled
+2021-04-28 21:25:36.144 firefox-bin[4485:190593] Warning: Expected min height of view: (<NSButton: 0x131db7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:25:36.145 firefox-bin[4485:190593] Warning: Expected min height of view: (<NSButton: 0x13d314400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:25:36.145 firefox-bin[4485:190593] Warning: Expected min height of view: (<NSButton: 0x13d315800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:25:36.146 firefox-bin[4485:190593] Warning: Expected min height of view: (<NSButton: 0x13d315c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:25:36.147 firefox-bin[4485:190593] Warning: Expected min height of view: (<NSButton: 0x13d317400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:25:36.147 firefox-bin[4485:190593] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13d31fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:25:36.148 firefox-bin[4485:190593] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13d649000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619659537301	Marionette	INFO	Listening on port 54403
+1619659537345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619659575258	Marionette	INFO	Stopped listening on port 54403
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619659576436	geckodriver	INFO	Listening on 127.0.0.1:54663
+1619659577454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofile34k7Da"
+1619659578079	Marionette	INFO	Marionette enabled
+2021-04-28 21:26:19.370 firefox-bin[4492:191612] Warning: Expected min height of view: (<NSButton: 0x1264d2800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:26:19.371 firefox-bin[4492:191612] Warning: Expected min height of view: (<NSButton: 0x13151e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:26:19.371 firefox-bin[4492:191612] Warning: Expected min height of view: (<NSButton: 0x131520400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:26:19.372 firefox-bin[4492:191612] Warning: Expected min height of view: (<NSButton: 0x131524800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:26:19.373 firefox-bin[4492:191612] Warning: Expected min height of view: (<NSButton: 0x131528000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:26:19.373 firefox-bin[4492:191612] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131527c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:26:19.374 firefox-bin[4492:191612] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13184a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619659580490	Marionette	INFO	Listening on port 54674
+1619659580579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619659612177	Marionette	INFO	Stopped listening on port 54674
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619659613401	geckodriver	INFO	Listening on 127.0.0.1:54912
+1619659652328	geckodriver	INFO	Listening on 127.0.0.1:54944
+1619659653345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileGVYj9V"
+1619659654004	Marionette	INFO	Marionette enabled
+2021-04-28 21:27:35.291 firefox-bin[4518:192953] Warning: Expected min height of view: (<NSButton: 0x129a27800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:27:35.291 firefox-bin[4518:192953] Warning: Expected min height of view: (<NSButton: 0x127e56400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:27:35.292 firefox-bin[4518:192953] Warning: Expected min height of view: (<NSButton: 0x134936400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:27:35.293 firefox-bin[4518:192953] Warning: Expected min height of view: (<NSButton: 0x134931000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:27:35.293 firefox-bin[4518:192953] Warning: Expected min height of view: (<NSButton: 0x134931400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:27:35.294 firefox-bin[4518:192953] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134933800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:27:35.295 firefox-bin[4518:192953] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134ca6000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619659656505	Marionette	INFO	Listening on port 54955
+1619659656551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619659681752	Marionette	INFO	Stopped listening on port 54955
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619659708257	geckodriver	INFO	Listening on 127.0.0.1:55124
+1619659709271	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileaWjxAJ"
+1619659709951	Marionette	INFO	Marionette enabled
+2021-04-28 21:28:31.196 firefox-bin[4533:194081] Warning: Expected min height of view: (<NSButton: 0x137816800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:28:31.197 firefox-bin[4533:194081] Warning: Expected min height of view: (<NSButton: 0x13781c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:28:31.197 firefox-bin[4533:194081] Warning: Expected min height of view: (<NSButton: 0x137822400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:28:31.198 firefox-bin[4533:194081] Warning: Expected min height of view: (<NSButton: 0x137820000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:28:31.199 firefox-bin[4533:194081] Warning: Expected min height of view: (<NSButton: 0x13781e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:28:31.199 firefox-bin[4533:194081] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13781c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:28:31.200 firefox-bin[4533:194081] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137b50000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619659712416	Marionette	INFO	Listening on port 55131
+1619659712496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619659751015	Marionette	INFO	Stopped listening on port 55131
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619659752390	geckodriver	INFO	Listening on 127.0.0.1:55381
+1619659753404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofile8bg3vo"
+1619659754048	Marionette	INFO	Marionette enabled
+2021-04-28 21:29:15.282 firefox-bin[4539:194944] Warning: Expected min height of view: (<NSButton: 0x13042f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:29:15.283 firefox-bin[4539:194944] Warning: Expected min height of view: (<NSButton: 0x13ce1c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:29:15.284 firefox-bin[4539:194944] Warning: Expected min height of view: (<NSButton: 0x13048fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:29:15.285 firefox-bin[4539:194944] Warning: Expected min height of view: (<NSButton: 0x13ce24400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:29:15.286 firefox-bin[4539:194944] Warning: Expected min height of view: (<NSButton: 0x13ce2bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:29:15.286 firefox-bin[4539:194944] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13ce27c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:29:15.287 firefox-bin[4539:194944] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13d16ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619659756417	Marionette	INFO	Listening on port 55388
+1619659756507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619659793638	Marionette	INFO	Stopped listening on port 55388
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619659835799	geckodriver	INFO	Listening on 127.0.0.1:55663
+1619659836810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileQvQTCD"
+*** You are running in headless mode.
+1619659837423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619659839208	Marionette	INFO	Listening on port 55670
+1619659839313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619659864151	Marionette	INFO	Stopped listening on port 55670
+1619659865264	geckodriver	INFO	Listening on 127.0.0.1:55821
+1619659866281	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofile8EoZXd"
+*** You are running in headless mode.
+1619659866799	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619659869125	Marionette	INFO	Listening on port 55828
+1619659869189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619659893377	Marionette	INFO	Stopped listening on port 55828
+1619660517497	geckodriver	INFO	Listening on 127.0.0.1:56289
+1619660518507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileBmIq7j"
+*** You are running in headless mode.
+1619660519143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619660521180	Marionette	INFO	Listening on port 56296
+1619660521230	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71vqZ1F8KbL.js?AUIClients/FWCIMAssets, line 280: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71vqZ1F8KbL.js?AUIClients/FWCIMAssets, line 280: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1619660539712	Marionette	INFO	Stopped listening on port 56296
+1619660540823	geckodriver	INFO	Listening on 127.0.0.1:56401
+1619660541833	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileUjLKuN"
+*** You are running in headless mode.
+1619660542458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619660544287	Marionette	INFO	Listening on port 56408
+1619660544340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71vqZ1F8KbL.js?AUIClients/FWCIMAssets, line 280: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71vqZ1F8KbL.js?AUIClients/FWCIMAssets, line 280: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1619660565809	Marionette	INFO	Stopped listening on port 56408
+1619660581904	geckodriver	INFO	Listening on 127.0.0.1:56535
+1619660582918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileIiqsUs"
+1619660583585	Marionette	INFO	Marionette enabled
+2021-04-28 21:43:04.910 firefox-bin[4744:208119] Warning: Expected min height of view: (<NSButton: 0x128e10800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:04.910 firefox-bin[4744:208119] Warning: Expected min height of view: (<NSButton: 0x133d1c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:04.911 firefox-bin[4744:208119] Warning: Expected min height of view: (<NSButton: 0x133d23c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:04.912 firefox-bin[4744:208119] Warning: Expected min height of view: (<NSButton: 0x133d24000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:04.912 firefox-bin[4744:208119] Warning: Expected min height of view: (<NSButton: 0x133d1cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:04.913 firefox-bin[4744:208119] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133d2a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:04.913 firefox-bin[4744:208119] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134048400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619660586065	Marionette	INFO	Listening on port 56542
+1619660586157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619660608902	Marionette	INFO	Stopped listening on port 56542
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619660610367	geckodriver	INFO	Listening on 127.0.0.1:56657
+1619660611375	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileacTVoc"
+1619660612027	Marionette	INFO	Marionette enabled
+2021-04-28 21:43:33.346 firefox-bin[4749:208818] Warning: Expected min height of view: (<NSButton: 0x12b110400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:33.347 firefox-bin[4749:208818] Warning: Expected min height of view: (<NSButton: 0x136122800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:33.347 firefox-bin[4749:208818] Warning: Expected min height of view: (<NSButton: 0x13611dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:33.348 firefox-bin[4749:208818] Warning: Expected min height of view: (<NSButton: 0x13611d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:33.349 firefox-bin[4749:208818] Warning: Expected min height of view: (<NSButton: 0x13611e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:33.350 firefox-bin[4749:208818] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13611d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-04-28 21:43:33.350 firefox-bin[4749:208818] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x136444400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619660614438	Marionette	INFO	Listening on port 56664
+1619660614502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619660658193	geckodriver	INFO	Listening on 127.0.0.1:56784
+1619660659211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofilecdrpT1"
+*** You are running in headless mode.
+1619660659756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619660661580	Marionette	INFO	Listening on port 56791
+1619660661610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71vqZ1F8KbL.js?AUIClients/FWCIMAssets, line 280: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71vqZ1F8KbL.js?AUIClients/FWCIMAssets, line 280: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1619660683036	Marionette	INFO	Stopped listening on port 56791
+1619660684450	geckodriver	INFO	Listening on 127.0.0.1:56897
+1619660685465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofile9zJ4y2"
+*** You are running in headless mode.
+1619660686053	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619660688013	Marionette	INFO	Listening on port 56907
+1619660688095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71vqZ1F8KbL.js?AUIClients/FWCIMAssets, line 280: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/71vqZ1F8KbL.js?AUIClients/FWCIMAssets, line 280: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1619660711645	Marionette	INFO	Stopped listening on port 56907
+1619713172585	geckodriver	INFO	Listening on 127.0.0.1:51665
+1619713173584	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofile1fXwRD"
+*** You are running in headless mode.
+1619713174065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619713175984	Marionette	INFO	Listening on port 51678
+1619713176088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619713214725	Marionette	INFO	Stopped listening on port 51678
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619713215773	geckodriver	INFO	Listening on 127.0.0.1:51940
+1619713216785	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofile4ZbRTC"
+*** You are running in headless mode.
+1619713217292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619713219124	Marionette	INFO	Listening on port 51951
+1619713219177	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1619713258601	geckodriver	INFO	Listening on 127.0.0.1:52185
+1619713259614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileAELqDl"
+*** You are running in headless mode.
+1619713260059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619713261554	Marionette	INFO	Listening on port 52196
+1619713261580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.16.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619713289919	Marionette	INFO	Stopped listening on port 52196
+1619713290978	geckodriver	INFO	Listening on 127.0.0.1:52344
+1619713291990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileMrCjhk"
+*** You are running in headless mode.
+1619713292436	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619713294004	Marionette	INFO	Listening on port 52351
+1619713294069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619713334253	Marionette	INFO	Stopped listening on port 52351
+1619713429077	geckodriver	INFO	Listening on 127.0.0.1:52617
+1619713430090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileriPQnm"
+*** You are running in headless mode.
+1619713430521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619713432109	Marionette	INFO	Listening on port 52624
+1619713432153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619713477560	Marionette	INFO	Stopped listening on port 52624
+1619713478591	geckodriver	INFO	Listening on 127.0.0.1:52886
+1619713479602	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileiMbG5a"
+*** You are running in headless mode.
+1619713480120	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619713481897	Marionette	INFO	Listening on port 52894
+1619713482000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619713527649	Marionette	INFO	Stopped listening on port 52894
+1619713948294	geckodriver	INFO	Listening on 127.0.0.1:53273
+1619713949301	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileZ0npGP"
+*** You are running in headless mode.
+1619713949830	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619713951616	Marionette	INFO	Listening on port 53280
+1619713951694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619713990705	Marionette	INFO	Stopped listening on port 53280
+1619713993049	geckodriver	INFO	Listening on 127.0.0.1:53535
+1619713994059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofilenaXAzV"
+*** You are running in headless mode.
+1619713994470	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619713996010	Marionette	INFO	Listening on port 53542
+1619713996028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619714040489	Marionette	INFO	Stopped listening on port 53542
+[Child 2376, IPC I/O Child] WARNING: pipe error: Socket is not connected: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_posix.cc:723
+1619714042289	geckodriver	INFO	Listening on 127.0.0.1:53788
+1619714043302	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofilezxEI8I"
+*** You are running in headless mode.
+1619714043788	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619714045499	Marionette	INFO	Listening on port 53795
+1619714045596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619714065183	Marionette	INFO	Stopped listening on port 53795
+1619714066796	geckodriver	INFO	Listening on 127.0.0.1:53992
+1619714067811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileAMZA6b"
+*** You are running in headless mode.
+1619714068388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619714070301	Marionette	INFO	Listening on port 53999
+1619714070325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619714110853	Marionette	INFO	Stopped listening on port 53999
+1619714112325	geckodriver	INFO	Listening on 127.0.0.1:54245
+1619714113338	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileR3uUow"
+*** You are running in headless mode.
+1619714113737	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619714115373	Marionette	INFO	Listening on port 54252
+1619714115418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619714165837	Marionette	INFO	Stopped listening on port 54252
+1619714188837	geckodriver	INFO	Listening on 127.0.0.1:54513
+1619714189852	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileNTUO7N"
+*** You are running in headless mode.
+1619714190277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619714191801	Marionette	INFO	Listening on port 54520
+1619714191825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619714238151	Marionette	INFO	Stopped listening on port 54520
+1619714239681	geckodriver	INFO	Listening on 127.0.0.1:54768
+1619714240692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofilec4wdKE"
+*** You are running in headless mode.
+1619714241095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619714242646	Marionette	INFO	Listening on port 54776
+1619714242665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619714284754	Marionette	INFO	Stopped listening on port 54776
+1619714286929	geckodriver	INFO	Listening on 127.0.0.1:55020
+1619714287943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileUR7OYX"
+*** You are running in headless mode.
+1619714288378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619714290044	Marionette	INFO	Listening on port 55027
+1619714290128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619714339005	Marionette	INFO	Stopped listening on port 55027
+1619714811651	geckodriver	INFO	Listening on 127.0.0.1:55307
+1619714812665	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileGi5Z2b"
+*** You are running in headless mode.
+1619714813089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619714814629	Marionette	INFO	Listening on port 55314
+1619714814742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619714839720	Marionette	INFO	Stopped listening on port 55314
+1619714840737	geckodriver	INFO	Listening on 127.0.0.1:55456
+1619714841749	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileKZz8nx"
+*** You are running in headless mode.
+1619714842141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619714843657	Marionette	INFO	Listening on port 55463
+1619714843727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619714869309	Marionette	INFO	Stopped listening on port 55463
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1619714870389	geckodriver	INFO	Listening on 127.0.0.1:55608
+1619714871404	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/2n/fcpjb5192pggds1xn7bv9qbm0000gn/T/rust_mozprofileY2CtNh"
+*** You are running in headless mode.
+1619714871803	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619714873333	Marionette	INFO	Listening on port 55615
+1619714873384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1619714897700	Marionette	INFO	Stopped listening on port 55615

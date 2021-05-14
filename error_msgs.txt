@@ -1,0 +1,46 @@
+An Adobe account with this email address already exists
+An account with this email address already exists
+Account already exists
+This email address is not available. Choose a different address.
+This email address is already in use.
+The password you’ve entered is incorrect.
+That username is taken. Try another.
+This username isn't allowed. Try again.
+is already a Microsoft account. Please try a different email address.
+This email is already connected to an account
+A Yahoo account already exists with this email address.
+A HuffPost account already exists with this email address.
+A Deezer account is already associated with this email
+Email is invalid or already taken
+Welcome back!
+These credentials are already associated with an account.
+notification.emailExists.PREMIER
+Looks like this email was already used to sign up. You can log in to your existing business account.
+Looks like this email address was used to sign up for a personal account. You can log in and turn your personal account into a business account.
+This email account is registered with The Guardian. Enter your password below to access your account
+! An account already exists for this email address. Please log in.
+Email already in use. Please log in instead
+Enter your Booking.com password for"
+email is already taken.
+username is already taken.
+Enter your password
+Already have an account? Log in to purchase your new subscription
+A Engadget account already exists with this email address.
+We just sent you an email with instructions to reset your password
+That email address belongs to a registered user.
+has already been taken.
+Reset email sent! Please check your inbox.
+This email is associated with an IBM account
+This email has an account!
+Email already in use. Log in or try another
+emailhasbeentaken
+This choice of email address has already been assigned
+Please select the email address where you wish to receive the password reset link
+That email is invalid or in use
+We’ve emailed you a link to reset your password
+We've sent password reset instructions to your email address.
+Enter your password to continue
+This email account is registered with The Guardian.
+A Yahoo account already exists with this email address
+A TechCrunch account already exists with this email address
+Email already in use by an unconfirmed account. You can use
