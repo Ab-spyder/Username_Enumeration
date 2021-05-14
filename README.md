@@ -47,7 +47,7 @@ $ python3 enumerator.py -P -email tor
 ```
 ## Usage:
 ```
-$ python3 enumerator.py -P[-NP] -email[-username] [tor]
+$ python3 enumerator.py -P -[email]/[username] [tor]/[notor]
 
 P or NP : P denotes to check if the error message indicates the username/email to exist - Use error_msgs.txt.
           NP denotes to check if the error message indicates the current username doesn’t exist - Use msg2.txt (rarely used).
