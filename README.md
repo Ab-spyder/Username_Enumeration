@@ -36,6 +36,7 @@ Go to the UsernameEnumeration directory.
 $ cd Username_Enumeration
 
 Run the script.sh file to build the docker image and run this as a container
+$ chmod +x script.sh
 $ ./script.sh
 
 Start TOR by using the following command.
@@ -43,7 +44,10 @@ $ tor &
 Press the ENTER key when it says “Bootstrapped 100% (done)”.
 
 Run the enumerator tool.
-$ python3 enumerator.py -P -email tor 
+$ python3 enumerator.py -P -email tor
+
+NOTE: If you get an Error Message stating: 'geckodriver' executable needs to be in PATH, Run this command:
+$ apt-get install firefox-geckodriver
 ```
 ## Usage:
 ```
@@ -64,4 +68,4 @@ python3 enumerator.py -P -username
 
 python3 enumerator.py -NP -email
 ```
-At the time of testing, all sites were working!
+At the time of testing, all the sites listed in vulnerable_database.xlsx were working!
