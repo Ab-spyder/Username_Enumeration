@@ -6,11 +6,11 @@ from time import sleep
 import extract_html_diff
 
 # Using edge browser
-driver = webdriver.Edge(executable_path='msedgedriver')
+# driver = webdriver.Edge(executable_path='msedgedriver')
 
-# Using Firefox browser
-#driver = webdriver.FirefoxProfile()
-#driver = webdriver.Firefox(driver)
+Using Firefox browser
+driver = webdriver.FirefoxProfile()
+driver = webdriver.Firefox(driver)
 
 print("The usernames present in Adobe are:")
 
