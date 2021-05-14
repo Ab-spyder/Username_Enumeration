@@ -64,8 +64,8 @@ Examples:
 
 python3 enumerator.py -P -email tor
 
-python3 enumerator.py -P -username
+python3 enumerator.py -P -username notor
 
-python3 enumerator.py -NP -email
+python3 enumerator.py -NP -email tor
 ```
 At the time of testing, all the sites listed in vulnerable_database.xlsx were working!
