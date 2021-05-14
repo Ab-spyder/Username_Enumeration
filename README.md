@@ -64,3 +64,4 @@ python3 enumerator.py -P -username
 
 python3 enumerator.py -NP -email
 ```
+At the time of testing, all sites were working!
