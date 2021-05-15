@@ -364,7 +364,7 @@ if __name__ == "__main__":
             f+=1
             # print(f)
         print("The current Link crawled: ",l);
-        print("The accounts", set(accounts));
+        print("FOUND accounts: ", set(accounts));
 
 #check if there is extra tag after request, check with the og page html. (inner html, ,login div box)
 
