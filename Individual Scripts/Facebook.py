@@ -3,12 +3,6 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 
-# Using edge browser
-driver = webdriver.Edge(executable_path='msedgedriver')
-
-# Using Firefox browser
-#driver = webdriver.FirefoxProfile()
-#driver = webdriver.Firefox(driver)
 
 print("The Usernames present in Facebook are: ")
 
@@ -16,6 +10,13 @@ print("The Usernames present in Facebook are: ")
 # You can remove all the Email IDs below
 for i in ["ccabsdjh2aohen@aol.com", "superman@gmail.com", "keijselkjhur@aol.com", "ajohnson@hotmail.com", "rnewman@aol.com",
           "sfoskett@hotmail.com", "seurat@aol.com", "richard@gmail.com", "punkis@gmail.com" ]:
+
+    # Using edge browser
+    driver = webdriver.Edge(executable_path='msedgedriver')
+
+    # Using Firefox browser
+    # driver = webdriver.FirefoxProfile()
+    # driver = webdriver.Firefox(driver)
 
     user = i
 
@@ -29,4 +30,4 @@ for i in ["ccabsdjh2aohen@aol.com", "superman@gmail.com", "keijselkjhur@aol.com"
     if "How do you want to get the code to reset your password?" in p1:
         print(i)
     sleep(3)
-driver.close()
+    driver.close()
