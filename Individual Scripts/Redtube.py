@@ -4,13 +4,6 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 import extract_html_diff
 
-# Using edge browser
-driver = webdriver.Edge(executable_path='msedgedriver')
-
-# Using Firefox browser
-#driver = webdriver.FirefoxProfile()
-#driver = webdriver.Firefox(driver)
-
 print("The usernames present in redtube are:")
 
 # Place all the Email IDs to test in the for loop as shown below.
@@ -18,6 +11,13 @@ print("The usernames present in redtube are:")
 for i in ["batman@gmail.com","ccohen@aol.com", "koyex66140@tlhao86.com", "superman@gmail.com"]:
 
     user = i
+
+    # Using edge browser
+    driver = webdriver.Edge(executable_path='msedgedriver')
+
+    # Using Firefox browser
+    # driver = webdriver.FirefoxProfile()
+    # driver = webdriver.Firefox(driver)
 
     driver.get("https://www.redtube.com/register")
     p1 = driver.page_source
@@ -33,4 +33,4 @@ for i in ["batman@gmail.com","ccohen@aol.com", "koyex66140@tlhao86.com", "superm
     if "Email has been taken." in p3:
         print(i)
     sleep(2)
-driver.close()
+    driver.close()
