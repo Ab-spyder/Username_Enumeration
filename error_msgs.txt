@@ -1,41 +1,39 @@
 That username is taken
-The password you’ve entered is incorrect.
-is already a Microsoft account. Please try a different email address.
-This email address is not available. Choose a different address.
+The password youve entered is incorrect
+is already a Microsoft account. Please try a different email address
+This email address is not available. Choose a different address
 This email is already connected to an account
 Welcome back
-A Yahoo account already exists with this email address.
-This email address is already in use.
+A Yahoo account already exists with this email address
+This email address is already in use
 An Adobe account with this email address already exists
 A Deezer account is already associated with this email
 Email is invalid or already taken
-Welcome back!
 Choose a different email address. This one is not available.
-This email account is registered with The Guardian.
-Looks like this email address was used to sign up for a personal account.
+This email account is registered with The Guardian
+Looks like this email address was used to sign up for a personal account
 This email is associated with an IBM account
 Enter your password
-Please enter your password to log in.
-Welcome back!
-Enter your password to continue.
+Please enter your password to log in
+Enter your password to continue
 Email already in use. Log in or try another
 This email has an account!
 Email is already in use
-That email address belongs to a registered user.
-Reset email sent! Please check your inbox.
+That email address belongs to a registered user
+Reset email sent! Please check your inbox
 Log in to purchase your new subscription
-Weve sent password reset instructions to your email address.
+Weve sent password reset instructions to your email address
 Enter your Booking.com password for
-A Engadget account already exists with this email address.
+A Engadget account already exists with this email address
 Email already in use. Please log in instead
-We just sent you an email with instructions to reset your password.
-Email is already taken.
+We just sent you an email with instructions to reset your password
+Email is already taken
 Weve emailed you a link to reset your password
-Email has been taken.
+Email has been taken
 That email is invalid or in use
 Please select the email address where you wish to receive the password reset link
-Please confirm your email address.
-Email has been taken.
-A TechCrunch account already exists with this email address.Sign in.
-Account already exists.
-Email already in use by an unconfirmed account. You can use log in or use the forgot password page to reset your password.
+Please confirm your email address
+Email has been taken
+A TechCrunch account already exists with this email address.Sign in
+Account already exists
+Email already in use by an unconfirmed account. You can use log in or use the forgot password page to reset your password
