@@ -158,7 +158,7 @@ def accountNotPresentLogin(user,link):
     file2=browser.page_source
 
 
-    soup = BeautifulSoup(file2)
+    soup = BeautifulSoup(file2, "html.parser")
     for script in soup(["script", "style"]):
         script.decompose()
     # delete out tags
@@ -243,7 +243,6 @@ def runProgram(user,link):
             pass_=browser.find_element_by_name("password")
 
         except:
-            print("password doesnt exist")
             flag_pass=True
 
     if('box.com' in link ):
@@ -281,7 +280,7 @@ def runProgram(user,link):
     file2=browser.page_source
 
 
-    soup = BeautifulSoup(file2)
+    soup = BeautifulSoup(file2, "html.parser")
     for script in soup(["script", "style"]):
         script.decompose()
     # delete out tags
@@ -294,7 +293,7 @@ def runProgram(user,link):
     for x in content:
         # print("Enumerating")
         if x in msg_database:
-            print("Match found")
+            print("[+] ---------------------------> Match found: {}".format(user))
             accounts.append(i)
 
 
