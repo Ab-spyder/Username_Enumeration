@@ -4,18 +4,18 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 
-# Using edge browser
-driver = webdriver.Edge(executable_path='msedgedriver')
-
-# Using Firefox browser
-#driver = webdriver.FirefoxProfile()
-#driver = webdriver.Firefox(driver)
-
 print("The usernames present in google are:")
 
 # Place all the Usernames to test in the for loop as shown below.
 # You can remove all the usernames below
-for i in ["BegForMercy", "BraiasjdnkjnAxe", "CrazyMind", "DeathWaasdaish", "DisasterMaster", "ElNaaaino", "EndlessFacepalms" ]:
+for i in ["BegForMercy", "BdkndcmsjdnkjnAxe", "CrazyMind", "DeathWaasdaish", "DisasterMaster", "ElNaaaino", "EndlessFacepalms" ]:
+    # Using edge browser
+    driver = webdriver.Edge(executable_path='msedgedriver')
+
+    # Using Firefox browser
+    # driver = webdriver.FirefoxProfile()
+    # driver = webdriver.Firefox(driver)
+
     user = i
 
     driver.get("https://accounts.google.com/signup/v2/webcreateaccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ltmpl=default&dsh=S1963587235%3A1615230351442196&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp")
@@ -28,7 +28,7 @@ for i in ["BegForMercy", "BraiasjdnkjnAxe", "CrazyMind", "DeathWaasdaish", "Disa
     if "That username is taken" in p1:
     #if "This username isn't allowed. Try again." in p1:
        print(i)
-
+    driver.close()
 
 
 
