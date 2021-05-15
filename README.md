@@ -59,7 +59,7 @@ P or NP : P denotes to check if the error message indicates the username/email t
 
 email or username : email means website takes email id as input; username means website takes usernames as input
 
-tor : to run the tool with tor – changes IP addresses [This parameter is optional]
+tor : to run the tool with tor – changes IP addresses
 
 Examples:
 
