@@ -3,7 +3,7 @@ Automated Tool and scripts to perform Username Enumeration on 50+ sites.
 
 Why this tool, when there are other similar tools that perform username enumeration ?
 
-The current tools available, perform enumeration by appending the username to the site and checking if the link exists or not. For eg: User "zuck" is considered a valid user on Facebook if the link https://www.facebook.com/zuck is valid. This is helpful to find whether the username is taken or not. These usernames cannot be used for other purposes.
+The current tools available, perform enumeration by appending the username to the site and checking if the link exists or not. For eg: User "zuck" is considered a valid user on Facebook if the link https://www.facebook.com/zuck is valid. This is helpful to find whether the username is taken or not. These cannot be used for other purposes.
 The tool we proposed, identifies the user by Email IDs which are typically used to login to a particular user account. This is a serious vulnerabiliity as the Usernames/Email IDs gathered could be used for Credential Stuffing, Password Spraying or other Social Engineering Attacks. 
 The only downside of the tool is it's relatively slow when compared to other tools.
 
@@ -30,10 +30,10 @@ Some sites do not work properly with TOR. Refer to Excel file to see which sites
 
 ## Installation:
 ```
-Clone the UsernameEnumeration Repository:
+Clone the Username_Enumeration Repository:
 $ git clone https://github.com/ningala-a/Username_Enumeration.git
 
-Go to the UsernameEnumeration directory.
+Go to the Username_Enumeration directory.
 $ cd Username_Enumeration
 
 Run the script.sh file to build the docker image and run this as a container
@@ -44,7 +44,7 @@ Start TOR by using the following command.
 $ tor &
 Press the ENTER key when it says “Bootstrapped 100% (done)”.
 
-Run the enumerator tool.
+Enter desired data into the files and run the enumerator tool.
 $ python3 enumerator.py -P -email tor
 
 NOTE: If you get an Error Message stating: 'geckodriver' executable needs to be in PATH, Run this command:
@@ -59,7 +59,7 @@ P or NP : P denotes to check if the error message indicates the username/email t
 
 email or username : email means website takes email id as input; username means website takes usernames as input
 
-tor : to run the tool with tor – changes IP addresses [This parameter is optional]
+tor : to run the tool with tor – changes IP addresses
 
 Examples:
 
@@ -69,4 +69,17 @@ python3 enumerator.py -P -username notor
 
 python3 enumerator.py -NP -email tor
 ```
+## Note:
+Alternatively, it is better to run Individual scripts for the sites of your choice. These scripts are faster and are usefull for enumerating small list of usernames/email IDs. Offcourse, to use the TOR functionality, you'll need to run the main tool.  
+
+The Individual scripts are made to be pretty straightforward and self-explanatory.
+
+Pycharm 2021.1 IDE was used for testing purposes. You can use any IDE of your choice. 
+
+Selenium WebDriver can not communicate with a browser directly. We need an intimidatory executable agent between Selenium WebDriver and the actual browser. These intimidatory are provided by third parties. For edge, we need a msedgedriver as an interface between Selenium WebDriver and a real edge browser [[Source]](http://makeseleniumeasy.com/2020/08/18/how-to-launch-microsoft-edge-browser-in-selenium-webdriver-java/). For firefox, we need geckodriver. Download the drivers for browser of your choice and place them in your system path. 
+
+https://github.com/mozilla/geckodriver/releases
+
+https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
 At the time of testing, all the sites listed in vulnerable_database.xlsx were working!
