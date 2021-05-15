@@ -11,6 +11,7 @@ print("The usernames present in wasPost are:")
 # You can remove all the Email IDs below
 for i in ["supeasdasdrman@gmail.com", "yenojam209@shzsedu.com","priyanka@gmail.com", "batman@gmail.com", "michael@gmail.com", "raghavdevgon@yahoo.com"]:
     user = i
+
     # Using edge browser
     driver = webdriver.Edge(executable_path='msedgedriver')
 
