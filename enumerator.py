@@ -1,3 +1,5 @@
+# Automated tool to perform Username Enumeration with TOR functionality.
+
 from selenium.webdriver.common.keys import Keys
 from time import sleep,time
 from selenium.webdriver.firefox.options import Options
@@ -13,40 +15,30 @@ import re
 import sys
 
 with open('error_msgs.txt') as f:
-    msg_database= [line.rstrip() for line in f]
+    msg_database = [line.rstrip() for line in f]
 
-
-
-#Cleaning the msg_database and converting the text in lower case.
-msg_database=[re.sub('[^A-Za-z0-9]+', '', mystring.lower()) for mystring in msg_database]
-# print(msg_database)
-
+#Cleaning the msg_database and converting all the text into lower case.
+msg_database = [re.sub('[^A-Za-z0-9]+', '', mystring.lower()) for mystring in msg_database]
 
 with open('msg2.txt') as f:
-    account_not_exist_msg= [line.rstrip() for line in f]
+    account_not_exist_msg = [line.rstrip() for line in f]
 
-
-account_not_exist_msg=[re.sub('[^A-Za-z0-9]+', '', mystring.lower()) for mystring in account_not_exist_msg]
-
-
-
-
-
+#Cleaning the msg_database and converting all the text into lower case.
+account_not_exist_msg = [re.sub('[^A-Za-z0-9]+', '', mystring.lower()) for mystring in account_not_exist_msg]
 
 
 def get_current_ip():
-
-    session=requests.session()
-    session.proxies={}
-    session.proxies['http']='socks5h://localhost:9050'
-    session.proxies['https']='socks5h://localhost:9050'
+    session = requests.session()
+    session.proxies = {'http': 'socks5h://localhost:9050', 'https': 'socks5h://localhost:9050'}
     try:
-        r=session.get('http://httpbin.org/ip')
+        r = session.get('https://httpbin.org/ip')
     except Exception as e:
         print(str(e))
     else:
         return r.text
-def my_proxy(PROXY_HOST,PROXY_PORT):
+
+
+def my_proxy(PROXY_HOST, PROXY_PORT):
     fp = webdriver.FirefoxProfile()
     # Direct = 0, Manual = 1, PAC = 2, AUTODETECT = 4, SYSTEM = 5
     fp.set_preference("network.proxy.type", 1)
@@ -59,14 +51,10 @@ def my_proxy(PROXY_HOST,PROXY_PORT):
     return webdriver.Firefox(options=options, firefox_profile=fp)
 
 
-
-
 def renew_tor_ip():
     with Controller.from_port(port=9051) as controller:
-        controller.authenticate(password="HkB3IDWD#143")  ##this will be different, please reset accordingly.
+        controller.authenticate(password="HkB3IDWD#143")
         controller.signal(Signal.NEWNYM)
-# r=req.get('https://jasonrigden.com')
-# r = session.get('https://jasonrigden.com')
 
 def accountNotPresentLogin(user,link):
      
