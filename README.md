@@ -30,10 +30,10 @@ Some sites do not work properly with TOR. Refer to Excel file to see which sites
 
 ## Installation:
 ```
-Clone the UsernameEnumeration Repository:
+Clone the Username_Enumeration Repository:
 $ git clone https://github.com/ningala-a/Username_Enumeration.git
 
-Go to the UsernameEnumeration directory.
+Go to the Username_Enumeration directory.
 $ cd Username_Enumeration
 
 Run the script.sh file to build the docker image and run this as a container
