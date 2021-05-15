@@ -4,18 +4,18 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 import extract_html_diff
 
-# Using edge browser
-driver = webdriver.Edge(executable_path='msedgedriver')
-
-# Using Firefox browser
-#driver = webdriver.FirefoxProfile()
-#driver = webdriver.Firefox(driver)
-
 print("The usernames present in Foxnews are:")
 
 # Place all the Email IDs to test in the for loop as shown below.
 # You can remove all the Email IDs below
 for i in ["supeasdasdrman@gmail.com", "priyanka@gmail.com", "batman@gmail.com", "michael@gmail.com", "raghavdevgon@yahoo.com"]:
+
+    # Using edge browser
+    driver = webdriver.Edge(executable_path='msedgedriver')
+
+    # Using Firefox browser
+    # driver = webdriver.FirefoxProfile()
+    # driver = webdriver.Firefox(driver)
 
     user = i
     driver.get("https://my.foxnews.com/?p=forgot-password")
@@ -33,4 +33,4 @@ for i in ["supeasdasdrman@gmail.com", "priyanka@gmail.com", "batman@gmail.com", 
     if "Reset email sent! Please check your inbox." in p3:
         print(i)
     sleep(2)
-driver.close()
+    driver.close()
