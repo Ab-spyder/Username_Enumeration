@@ -5,13 +5,6 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 import extract_html_diff
 
-# Using edge browser
-driver = webdriver.Edge(executable_path='msedgedriver')
-
-# Using Firefox browser
-#driver = webdriver.FirefoxProfile()
-#driver = webdriver.Firefox(driver)
-
 
 print("The usernames present in techcrunch are:")
 
@@ -20,6 +13,13 @@ print("The usernames present in techcrunch are:")
 for i in ["ccohen@aol.com", "koyex66140@tlhao86.com", "superman@gmail.com"]:
 
     user = i
+
+    # Using edge browser
+    driver = webdriver.Edge(executable_path='msedgedriver')
+
+    # Using Firefox browser
+    # driver = webdriver.FirefoxProfile()
+    # driver = webdriver.Firefox(driver)
 
     driver.get("https://login.techcrunch.com/account/create")
     p1 = driver.page_source
@@ -33,4 +33,4 @@ for i in ["ccohen@aol.com", "koyex66140@tlhao86.com", "superman@gmail.com"]:
     if "A TechCrunch account already exists with this email address." in p3:
         print(i)
     sleep(2)
-driver.close()
+    driver.close()
