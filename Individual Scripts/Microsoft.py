@@ -5,19 +5,19 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 import extract_html_diff
 
-# Using edge browser
-driver = webdriver.Edge(executable_path='msedgedriver')
-
-# Using Firefox browser
-#driver = webdriver.FirefoxProfile()
-#driver = webdriver.Firefox(driver)
-
 print("The usernames present in Microsoft are:")
 
 # Place all the Email IDs to test in the for loop as shown below.
 # You can remove all the Email IDs below
 for i in ["ccohen@aol.com", "keijser@aol.com", "ajohnson@hotmail.com", "rnewman@aol.com", "sfoskett@hotmail.com", "seurat@aol.com"]:
     user = i
+
+    # Using edge browser
+    driver = webdriver.Edge(executable_path='msedgedriver')
+
+    # Using Firefox browser
+    # driver = webdriver.FirefoxProfile()
+    # driver = webdriver.Firefox(driver)
 
     driver.get("https://signup.live.com/signup")
     p1 = driver.page_source
@@ -31,4 +31,4 @@ for i in ["ccohen@aol.com", "keijser@aol.com", "ajohnson@hotmail.com", "rnewman@
     if "Create a password" not in p3:
         print(i)
     sleep(3)
-driver.close()
+    driver.close()
