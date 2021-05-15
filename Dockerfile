@@ -28,7 +28,7 @@ printf "HashedControlPassword $torpass\nControlPort 9051\n" | tee -a /etc/tor/to
 #RUN systemctl restart tor
 RUN tor&
 
-WORKDIR /raaghavv
+WORKDIR /UserEnum
 ADD ./TorCheck.py check.py
 ADD ./msg2.txt msg2.txt
 ADD ./newlinks.txt newlinks.txt
