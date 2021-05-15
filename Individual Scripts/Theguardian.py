@@ -29,3 +29,4 @@ for i in ["ccohen@aol.com", "superman@gmail.com", "batman@gmail.com"]:
     if "This email account is registered with The Guardian." in p3:
         print(i)
     sleep(2)
+    driver.close()
