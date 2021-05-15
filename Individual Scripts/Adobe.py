@@ -13,6 +13,7 @@ print("The usernames present in Adobe are:")
 for i in ["ccohen@aol.com", "superman@gmail.com", "keijser@aol.com", "superman@gmail.com", "ajohnson@hotmail.com", "rnewman@aol.com"]:
 
     user = i
+
     # Using edge browser
     # driver = webdriver.Edge(executable_path='msedgedriver')
 
