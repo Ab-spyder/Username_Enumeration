@@ -4,12 +4,6 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 import extract_html_diff
 
-# Using edge browser
-driver = webdriver.Edge(executable_path='msedgedriver')
-
-# Using Firefox browser
-#driver = webdriver.FirefoxProfile()
-#driver = webdriver.Firefox(driver)
 
 
 print("The usernames present in Booking.com are:")
@@ -18,6 +12,13 @@ print("The usernames present in Booking.com are:")
 # You can remove all the Email IDs below
 for i in ["easdasdrmn@gmail.com", "priyanka@gmail.com", "batman@gmail.com", "michael@gmail.com", "raghavdevgon@yahoo.com"]:
     user = i
+
+    # Using edge browser
+    driver = webdriver.Edge(executable_path='msedgedriver')
+
+    # Using Firefox browser
+    # driver = webdriver.FirefoxProfile()
+    # driver = webdriver.Firefox(driver)
 
     driver.get("https://account.booking.com/register")
     p1 = driver.page_source
@@ -33,4 +34,4 @@ for i in ["easdasdrmn@gmail.com", "priyanka@gmail.com", "batman@gmail.com", "mic
     if "Enter your Booking.com password for" in p3:
         print(i)
     sleep(2)
-driver.close()
+    driver.close()
