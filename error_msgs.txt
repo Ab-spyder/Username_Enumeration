@@ -1,4 +1,4 @@
-That username is taken
+That username is taken. Try another.
 The password youve entered is incorrect
 is already a Microsoft account. Please try a different email address
 This email address is not available. Choose a different address
