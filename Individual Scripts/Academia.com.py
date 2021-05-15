@@ -4,12 +4,6 @@ from selenium.webdriver.common.keys import Keys
 from time import sleep
 import extract_html_diff
 
-# Using edge browser
-driver = webdriver.Edge(executable_path='msedgedriver')
-
-# Using Firefox browser
-#driver = webdriver.FirefoxProfile()
-#driver = webdriver.Firefox(driver)
 
 print("The usernames present in wasPost are:")
 
@@ -17,6 +11,12 @@ print("The usernames present in wasPost are:")
 # You can remove all the Email IDs below
 for i in ["supeasdasdrman@gmail.com", "yenojam209@shzsedu.com","priyanka@gmail.com", "batman@gmail.com", "michael@gmail.com", "raghavdevgon@yahoo.com"]:
     user = i
+    # Using edge browser
+    driver = webdriver.Edge(executable_path='msedgedriver')
+
+    # Using Firefox browser
+    # driver = webdriver.FirefoxProfile()
+    # driver = webdriver.Firefox(driver)
 
     driver.get("https://www.academia.edu/signup")
     p1 = driver.page_source
@@ -33,4 +33,4 @@ for i in ["supeasdasdrman@gmail.com", "yenojam209@shzsedu.com","priyanka@gmail.c
         print(i)
     sleep(2)
 
-driver.close()
+    driver.close()
