@@ -44,7 +44,7 @@ Start TOR by using the following command.
 $ tor &
 Press the ENTER key when it says “Bootstrapped 100% (done)”.
 
-Run the enumerator tool.
+Enter desired data into the files and run the enumerator tool.
 $ python3 enumerator.py -P -email tor
 
 NOTE: If you get an Error Message stating: 'geckodriver' executable needs to be in PATH, Run this command:
