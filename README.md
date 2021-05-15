@@ -76,7 +76,7 @@ The Individual scripts are made to be pretty straightforward and self-explanator
 
 Pycharm 2021.1 IDE was used for testing purposes. You can use any IDE of your choice. 
 
-Selenium WebDriver can not communicate with a browser directly. We need an intimidatory executable agent between Selenium WebDriver and the actual browser. These intimidatory are provided by third parties. For edge, we need a msedgedriver as an interface between Selenium WebDriver and a real edge browser[Source]. For firefox, we need geckodriver. Download the drivers for browser of your choice and place them in your system path. 
+Selenium WebDriver can not communicate with a browser directly. We need an intimidatory executable agent between Selenium WebDriver and the actual browser. These intimidatory are provided by third parties. For edge, we need a msedgedriver as an interface between Selenium WebDriver and a real edge browser[Source](http://makeseleniumeasy.com/2020/08/18/how-to-launch-microsoft-edge-browser-in-selenium-webdriver-java/). For firefox, we need geckodriver. Download the drivers for browser of your choice and place them in your system path. 
 
 https://github.com/mozilla/geckodriver/releases
 
