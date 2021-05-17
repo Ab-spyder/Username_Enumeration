@@ -23,7 +23,7 @@ The complete websites list and other details to be entered in the above files ar
     1. Choose a website to perform the enumeration from the excel file.
     2. Copy the corresponding link from the excel file to newlinks.txt file
     3. Enter the email ids or usernames to be tested in emailID.txt or usernames.txt files, respectively.
-    4. Copy the Error Messages from the excel file to error_msgs.txt or msg2.txt files, respectively
+    4. Copy the Error Messages from the excel file to error_msgs.txt or msg2.txt files, respectively. (Copied already!)
     5. Run the tool
 
 Some sites do not work properly with TOR. Refer to Excel file to see which sites do not work with TOR. Most of the sites work with -P flag and error_msgs.txt. The -NP flag and msg2.txt files are rarely used. This tool will be updated continuously, and new sites will be added. Multiple sites could be Enumerated by including them in the newlinks.txt file.
