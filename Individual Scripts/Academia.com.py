@@ -5,7 +5,7 @@ from time import sleep
 import extract_html_diff
 
 
-print("The usernames present in wasPost are:")
+print("The usernames present in Academia are:")
 
 # Place all the Email IDs to test in the for loop as shown below.
 # You can remove all the Email IDs below
