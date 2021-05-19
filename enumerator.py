@@ -1,5 +1,10 @@
 # Automated tool to perform Username Enumeration with TOR functionality.
-
+"""
+Project Contributors:
+* Abhishek Ningala
+* Jugal Joshi
+* Raaghavv Devgon
+"""
 from selenium.webdriver.common.keys import Keys
 from time import sleep,time
 from selenium.webdriver.firefox.options import Options
