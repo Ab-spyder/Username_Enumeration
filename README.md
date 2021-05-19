@@ -1,5 +1,5 @@
 # Username_Enumeration
-Automated Tool and scripts to perform Username Enumeration on 50+ sites. 
+Automated Tool and scripts to perform Username Enumeration on 50+ sites with TOR functionality. 
 
 Why this tool, when there are other similar tools that perform username enumeration ?
 
