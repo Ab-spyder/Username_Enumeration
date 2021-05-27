@@ -23,6 +23,8 @@ RUN pip3 install selenium bs4 requests regex stem pysocks webdriver-manager
 # RUN pip3 install bs4
 # RUN pip3 install requests
 # RUN pip3 install regex
+#Installing Firefox Geckodriver
+RUN apt-get install firefox-geckodriver
 RUN /bin/bash -c 'torpass=$(tor --hash-password "HkB3IDWD#143") \
 printf "HashedControlPassword $torpass\nControlPort 9051\n" | tee -a /etc/tor/torrc'
 #RUN systemctl restart tor
