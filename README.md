@@ -18,7 +18,7 @@ The following files exist inside the docker: check.py, enumerator.py, emailID.tx
 * error_msgs.txt – Enter the error messages related to the runProgram function (-P option).
 * msg2.txt       – Enter the error messages related to the accountNotPresent function (-NP option).
 
-The complete websites list and other details to be entered in the above files are listed in the vulnerable_database excel file.
+The complete websites list and other details to be entered in the above files are listed in the **vulnerable_database** excel file.
 
     1. Choose a website to perform the enumeration from the excel file.
     2. Copy the corresponding link from the excel file to newlinks.txt file
@@ -67,13 +67,13 @@ python3 enumerator.py -P -username notor
 python3 enumerator.py -NP -email tor
 ```
 ## Note:
-Alternatively, it is better to run Individual scripts for the sites of your choice. These scripts are faster and are usefull for enumerating small list of usernames/email IDs. Offcourse, to use the TOR functionality, you'll need to run the main tool.  
+Alternatively, it is better to run Individual scripts for the sites of your choice. These scripts are faster and are useful for enumerating small list of usernames/email IDs. Of course, to use the TOR functionality, you'll need to run the main tool.  
 
 The Individual scripts are made to be pretty straightforward and self-explanatory.
 
 Pycharm 2021.1 IDE was used for testing purposes. You can use any IDE of your choice.
 
-Selenium WebDriver can not communicate with a browser directly. We need an intimidatory executable agent between Selenium WebDriver and the actual browser. These intimidatory agents are provided by third parties. For edge, we need a msedgedriver as an interface between Selenium WebDriver and a real edge browser [[Source]](http://makeseleniumeasy.com/2020/08/18/how-to-launch-microsoft-edge-browser-in-selenium-webdriver-java/). For firefox, we need geckodriver. Download the drivers for browser of your choice and place them in your system path.
+Selenium WebDriver can not communicate with a browser directly. We need an intimidatory executable agent between Selenium WebDriver and the actual browser. These intimidatory agents are provided by third parties. For edge, we need a msedgedriver as an interface between Selenium WebDriver and a real edge browser [[Source]](http://makeseleniumeasy.com/2020/08/18/how-to-launch-microsoft-edge-browser-in-selenium-webdriver-java/). For Firefox, we need geckodriver. Download the drivers for browser of your choice and place them in your system path.
 
 https://github.com/mozilla/geckodriver/releases
 
