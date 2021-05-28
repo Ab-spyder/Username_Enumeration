@@ -4,7 +4,7 @@ Automated Tool and scripts to perform Username Enumeration on 50+ sites with TOR
 Why this tool, when there are other similar tools that perform username enumeration ?
 
 The current tools available, perform enumeration by appending the username to the site and checking if the link exists or not. For eg: User "zuck" is considered a valid user on Facebook if the link https://www.facebook.com/zuck is valid. This is helpful to find whether the username is taken or not. These cannot be used for other purposes.
-The tool we proposed, identifies the user by Email IDs which are typically used to login to a particular user account. This is a serious vulnerabiliity as the Usernames/Email IDs gathered could be used for Credential Stuffing, Password Spraying or other Social Engineering Attacks.
+The tool we proposed, identifies the user by Email IDs which are typically used to login to a particular user account. This is a serious vulnerability as the Usernames/Email IDs gathered could be used for Credential Stuffing, Password Spraying or other Social Engineering Attacks.
 The only downside of the tool is it's relatively slow when compared to other tools.
 
 ## Instructions:
